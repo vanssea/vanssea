@@ -14,23 +14,18 @@
 
 🎓 D4 Informatics Engineering Student at **Politeknik Negeri Malang (POLINEMA)**
 
-💻 Passionate about:
+💻 Interested in:
 - Web Development
-- Laravel Framework
-- Database Design
+- Backend Development
+- Database Management
 - UI/UX Design
 
-🚀 Currently working on:
-- TrashWare – A platform focused on electronic waste (e-waste) management and sustainability
-- Personal web development projects using Laravel
-- Learning and implementing RESTful APIs
+🚀 Currently Working On:
+- TrashWare – Sustainable E-Waste Management Platform
+- Personal Laravel Projects
+- Improving Backend Development Skills
 
-🌱 Currently learning:
-- REST API Development
-- Software Engineering Best Practices
-- System Analysis & Design
-
-🛠 Tools & Technologies:
+🛠 Tech I Use:
 - Laravel
 - PHP
 - MySQL
@@ -39,11 +34,19 @@
 - JavaScript
 - Bootstrap
 - Git & GitHub
+
+🎨 Other Tools:
 - Figma
 - Canva
+- Microsoft Office
+
+🌱 Currently Learning:
+- RESTful API Development
+- Software Engineering Best Practices
+- System Analysis & Design
 
 ⚡ Fun Fact:
-I enjoy building useful web applications and turning ideas into real-world solutions.
+I enjoy turning ideas into useful web applications and continuously learning new technologies.
 
 ---
 
@@ -79,6 +82,16 @@ I enjoy building useful web applications and turning ideas into real-world solut
 
 ---
 
+# 🐍 Contribution Snake
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/vanssea/vanssea/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
 # 🏆 GitHub Trophies
 
 <div align="center">
@@ -91,14 +104,14 @@ I enjoy building useful web applications and turning ideas into real-world solut
 
 # 📌 Featured Projects
 
-### 🏅 Student Achievement Information System
-A Laravel-based system for managing student achievements, competition participation, and verification processes.
+### ♻️ TrashWare
+A web-based platform focused on electronic waste (e-waste) management and sustainability.
 
-### 📚 Competition Information & Recommendation System
-A platform that helps students discover competitions and manage achievement records efficiently.
+### 🏅 Student Achievement Information System
+A Laravel-based system for managing student achievements and competition records.
 
 ### 🎨 UI/UX Design Projects
-Creating user-friendly interfaces and visual designs using Figma and Canva.
+Creating user-friendly interfaces using Figma and Canva.
 
 ---
 
@@ -114,7 +127,7 @@ Creating user-friendly interfaces and visual designs using Figma and Canva.
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<a href="https://www.linkedin.com/in/vanessa-cristin-natalia-677037272">
+<a href="https://www.linkedin.com/in/USERNAME-LINKEDIN-KAMU">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
@@ -122,6 +135,20 @@ Creating user-friendly interfaces and visual designs using Figma and Canva.
 
 ---
 
-Always open to learning, collaboration, and new opportunities.
+# 👩‍💻 Profile Visitors
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=vanssea&style=for-the-badge&color=blueviolet" />
+
+</div>
+
+---
+
+<div align="center">
+
+### ✨ Thanks for visiting my profile!
+
+Always open to learning, collaboration, and internship opportunities.
 
 </div>
